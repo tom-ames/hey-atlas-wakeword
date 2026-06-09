@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Atlas",
   "author": "Tom",
-  "website": "",
+  "website": "https://github.com/tom-ames/hey-atlas-wakeword",
   "model": "hey_atlas.tflite",
   "trained_languages": ["en"],
   "version": 2,
